@@ -22,12 +22,21 @@ Dashboard Preview @Dashboard.png
 * **Visualization:** Plotly.js (via Python-generated HTML)
 * **Styling:** CSS3 & HTML5
 
+## 📂 Data Source Descriptions
+* **incidents_latest.csv:** The primary production data feed for the dashboard. This file contains the most recent cyber incident reports, including timestamps, source URLs, and raw metadata. It serves as the "live" input that the dashboard processes to generate the 2x2 analytical grid.
+* **cti_training_dataset.csv:** A curated collection of historical cyber threat data. This dataset was used to build and validate the Sector Inference Logic, providing the "ground truth" patterns (keywords and IOCs) required to accurately categorize incidents into Critical Information Infrastructure (CII) sectors.
+* **InteractiveSheet_2025-10-30_08_24_39 - Sheet1.csv:** A specific point-in-time snapshot of raw threat intelligence. This file likely represents a manual export or a collaborative tracking sheet used during the initial data gathering phase, capturing early incident annotations and discovery logs.
+
+* Note: These datasets contain synthesized and open-source intelligence (OSINT) data for the purpose of demonstrating CTI visualization techniques.
+
 ## 📁 Project Structure
 
 ```text
 india-cti-dashboard/
 ├── data/
 │   └── incidents_latest.csv      # Source dataset (CSV format)
+|   └── cti_training_dataset.csv
+|   └── InteractiveSheet_2025-10-30_08_24_39 - Sheet1.csv
 ├── src/
 │   └── main.py                   # Main Python processing script
 ├── output/
