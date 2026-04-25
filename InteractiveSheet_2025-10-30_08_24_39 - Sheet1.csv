@@ -1,0 +1,1321 @@
+text,label_attack_possible,label_attack_type
+Credentials were dumped online after a breach in UIDAI.,1,Data Leak
+A data leak exposed customer records of a Education provider in NCIIPC.,1,Data Leak
+A misconfigured S3 bucket in gov.in revealed sensitive documents.,1,Data Leak
+Smishing messages in Chennai lured telecom subscribers to fake KYC pages.,1,Phishing
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+Privilege escalation via zero-day was observed in UPI corporate endpoints.,1,Exploit
+Unpatched servers in gov.in were exploited with public PoCs.,1,Exploit
+A vendor onboarding communication was shared with employees.,0,Other
+Credential-harvesting emails impersonated a bank in NIC to steal login details.,1,Phishing
+Privilege escalation via zero-day was observed in Chennai corporate endpoints.,1,Exploit
+"Hospital systems in Mumbai were locked by ransomware, disrupting operations.",1,Ransomware
+"Hospital systems in RBI were locked by ransomware, disrupting operations.",1,Ransomware
+Attackers exploited a CVE affecting internet-facing systems in CERT-In for RCE.,1,Exploit
+A trojanized installer spread via email attachments in Pune.,1,Malware
+Regular software update improved system performance across the organization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+A DDoS attack disrupted online services of a major Healthcare portal in India.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+Credentials were dumped online after a breach in Chennai.,1,Data Leak
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in Aadhaar.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Aadhaar.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UIDAI.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Indian.,0,Other
+"Double-extortion ransomware hit a data center in NCIIPC, exfiltrating files from Education.",1,Ransomware
+A trojanized installer spread via email attachments in RBI.,1,Malware
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in gov.in.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Chennai for RCE.,1,Exploit
+Press release announced new partnerships in the telecom industry.,0,Other
+"Malware infected endpoints in a BFSI firm in UPI, dropping an infostealer.",1,Malware
+A phishing campaign targeting BFSI users in India asked for OTP and credentials.,1,Phishing
+"Traffic floods targeted an ISP backbone in CERT-In, causing intermittent outages.",1,DDoS
+A phishing campaign targeting Healthcare users in NCIIPC asked for OTP and credentials.,1,Phishing
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Indian.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in NIC for RCE.,1,Exploit
+Unpatched servers in Mumbai were exploited with public PoCs.,1,Exploit
+Press release announced new partnerships in the telecom industry.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A misconfigured S3 bucket in NIC revealed sensitive documents.,1,Data Leak
+"Traffic floods targeted an ISP backbone in Mumbai, causing intermittent outages.",1,DDoS
+Smishing messages in Delhi lured telecom subscribers to fake KYC pages.,1,Phishing
+Unpatched servers in UPI were exploited with public PoCs.,1,Exploit
+A phishing campaign targeting Education users in UPI asked for OTP and credentials.,1,Phishing
+The company released financial results and announced a new product roadmap. This update was relevant for teams in India.,0,Other
+A phishing campaign targeting BFSI users in UPI asked for OTP and credentials.,1,Phishing
+"A worm propagated across internal networks in Chennai, impacting operations.",1,Malware
+"A worm propagated across internal networks in Pune, impacting operations.",1,Malware
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in India.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+"A worm propagated across internal networks in Indian, impacting operations.",1,Malware
+A vendor onboarding communication was shared with employees.,0,Other
+"Double-extortion ransomware hit a data center in Mumbai, exfiltrating files from Telecom.",1,Ransomware
+Payment APIs in NIC suffered volumetric denial-of-service incidents.,1,DDoS
+"A worm propagated across internal networks in Hyderabad, impacting operations.",1,Malware
+A misconfigured S3 bucket in CERT-In revealed sensitive documents.,1,Data Leak
+"Traffic floods targeted an ISP backbone in India, causing intermittent outages.",1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NIC.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Aadhaar.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UPI.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in CERT-In.,0,Other
+Payment APIs in RBI suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+"Traffic floods targeted an ISP backbone in gov.in, causing intermittent outages.",1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+Credentials were dumped online after a breach in India.,1,Data Leak
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in NIC.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Indian for RCE.,1,Exploit
+Internal audit completed with recommendations for process optimization.,0,Other
+Credential-harvesting emails impersonated a bank in UIDAI to steal login details.,1,Phishing
+"Malware infected endpoints in a Telecom firm in NCIIPC, dropping an infostealer.",1,Malware
+Credentials were dumped online after a breach in Hyderabad.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UPI.,0,Other
+Credential-harvesting emails impersonated a bank in Mumbai to steal login details.,1,Phishing
+"Malware infected endpoints in a Transport firm in Delhi, dropping an infostealer.",1,Malware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
+"Double-extortion ransomware hit a data center in Hyderabad, exfiltrating files from Healthcare.",1,Ransomware
+A phishing campaign targeting Govt users in Bengaluru asked for OTP and credentials.,1,Phishing
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Credential-harvesting emails impersonated a bank in UIDAI to steal login details.,1,Phishing
+"A ransomware incident impacted Healthcare in Indian, encrypting servers and demanding payment.",1,Ransomware
+Regular software update improved system performance across the organization.,0,Other
+"Hospital systems in Pune were locked by ransomware, disrupting operations.",1,Ransomware
+Unpatched servers in NIC were exploited with public PoCs.,1,Exploit
+Payment APIs in Delhi suffered volumetric denial-of-service incidents.,1,DDoS
+A data leak exposed customer records of a BFSI provider in Mumbai.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NIC.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UIDAI.,0,Other
+"A worm propagated across internal networks in UPI, impacting operations.",1,Malware
+"Traffic floods targeted an ISP backbone in gov.in, causing intermittent outages.",1,DDoS
+A misconfigured S3 bucket in Mumbai revealed sensitive documents.,1,Data Leak
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in CERT-In.,0,Other
+A DDoS attack disrupted online services of a major Govt portal in Aadhaar.,1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NCIIPC.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UPI.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in Indian.,0,Other
+Payment APIs in Indian suffered volumetric denial-of-service incidents.,1,DDoS
+A DDoS attack disrupted online services of a major Telecom portal in RBI.,1,DDoS
+Credentials were dumped online after a breach in NIC.,1,Data Leak
+"A worm propagated across internal networks in NIC, impacting operations.",1,Malware
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in Aadhaar.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in NCIIPC for RCE.,1,Exploit
+"Traffic floods targeted an ISP backbone in UPI, causing intermittent outages.",1,DDoS
+Credential-harvesting emails impersonated a bank in Indian to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UPI.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Smishing messages in NCIIPC lured telecom subscribers to fake KYC pages.,1,Phishing
+Privilege escalation via zero-day was observed in Indian corporate endpoints.,1,Exploit
+A trojanized installer spread via email attachments in CERT-In.,1,Malware
+Privilege escalation via zero-day was observed in Aadhaar corporate endpoints.,1,Exploit
+"Malware infected endpoints in a IT firm in Chennai, dropping an infostealer.",1,Malware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in gov.in.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UPI.,0,Other
+Smishing messages in UIDAI lured telecom subscribers to fake KYC pages.,1,Phishing
+A trojanized installer spread via email attachments in India.,1,Malware
+Internal audit completed with recommendations for process optimization.,0,Other
+Privilege escalation via zero-day was observed in CERT-In corporate endpoints.,1,Exploit
+Scheduled maintenance was completed with no security incident reported.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Aadhaar.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in UIDAI for RCE.,1,Exploit
+A trojanized installer spread via email attachments in UIDAI.,1,Malware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in RBI.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+"Traffic floods targeted an ISP backbone in Hyderabad, causing intermittent outages.",1,DDoS
+A DDoS attack disrupted online services of a major Govt portal in Hyderabad.,1,DDoS
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Indian for RCE.,1,Exploit
+A misconfigured S3 bucket in Pune revealed sensitive documents.,1,Data Leak
+Unpatched servers in Mumbai were exploited with public PoCs.,1,Exploit
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in NIC.,0,Other
+Privilege escalation via zero-day was observed in Aadhaar corporate endpoints.,1,Exploit
+"Hospital systems in CERT-In were locked by ransomware, disrupting operations.",1,Ransomware
+"A ransomware incident impacted BFSI in UPI, encrypting servers and demanding payment.",1,Ransomware
+"Hospital systems in Indian were locked by ransomware, disrupting operations.",1,Ransomware
+Credential-harvesting emails impersonated a bank in UPI to steal login details.,1,Phishing
+"Hospital systems in CERT-In were locked by ransomware, disrupting operations.",1,Ransomware
+Privilege escalation via zero-day was observed in Indian corporate endpoints.,1,Exploit
+"Traffic floods targeted an ISP backbone in gov.in, causing intermittent outages.",1,DDoS
+A misconfigured S3 bucket in India revealed sensitive documents.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in gov.in.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Payment APIs in UIDAI suffered volumetric denial-of-service incidents.,1,DDoS
+Internal audit completed with recommendations for process optimization.,0,Other
+Unpatched servers in gov.in were exploited with public PoCs.,1,Exploit
+"A ransomware incident impacted Healthcare in Delhi, encrypting servers and demanding payment.",1,Ransomware
+Credentials were dumped online after a breach in Delhi.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UPI.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"Hospital systems in NIC were locked by ransomware, disrupting operations.",1,Ransomware
+A DDoS attack disrupted online services of a major Transport portal in Chennai.,1,DDoS
+"A ransomware incident impacted Transport in Delhi, encrypting servers and demanding payment.",1,Ransomware
+Regular software update improved system performance across the organization. This update was relevant for teams in India.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Credentials were dumped online after a breach in India.,1,Data Leak
+Regular software update improved system performance across the organization. This update was relevant for teams in India.,0,Other
+A phishing campaign targeting Telecom users in CERT-In asked for OTP and credentials.,1,Phishing
+Payment APIs in Bengaluru suffered volumetric denial-of-service incidents.,1,DDoS
+A DDoS attack disrupted online services of a major Govt portal in RBI.,1,DDoS
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NIC.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NCIIPC.,0,Other
+Smishing messages in NIC lured telecom subscribers to fake KYC pages.,1,Phishing
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Bengaluru for RCE.,1,Exploit
+A DDoS attack disrupted online services of a major Govt portal in CERT-In.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+A DDoS attack disrupted online services of a major Education portal in Delhi.,1,DDoS
+Credential-harvesting emails impersonated a bank in Chennai to steal login details.,1,Phishing
+"Malware infected endpoints in a Power firm in Delhi, dropping an infostealer.",1,Malware
+"A worm propagated across internal networks in Pune, impacting operations.",1,Malware
+The company released financial results and announced a new product roadmap.,0,Other
+Payment APIs in Chennai suffered volumetric denial-of-service incidents.,1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in NCIIPC.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Credentials were dumped online after a breach in Delhi.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in NIC for RCE.,1,Exploit
+Smishing messages in NIC lured telecom subscribers to fake KYC pages.,1,Phishing
+Credential-harvesting emails impersonated a bank in CERT-In to steal login details.,1,Phishing
+"A ransomware incident impacted Education in Aadhaar, encrypting servers and demanding payment.",1,Ransomware
+"Traffic floods targeted an ISP backbone in Bengaluru, causing intermittent outages.",1,DDoS
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
+A trojanized installer spread via email attachments in UPI.,1,Malware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in RBI.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in India.,0,Other
+"Malware infected endpoints in a IT firm in UPI, dropping an infostealer.",1,Malware
+Regular software update improved system performance across the organization.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NCIIPC.,0,Other
+A trojanized installer spread via email attachments in Delhi.,1,Malware
+"Double-extortion ransomware hit a data center in NIC, exfiltrating files from Telecom.",1,Ransomware
+A data leak exposed customer records of a Transport provider in UPI.,1,Data Leak
+Unpatched servers in Delhi were exploited with public PoCs.,1,Exploit
+A misconfigured S3 bucket in Indian revealed sensitive documents.,1,Data Leak
+"A worm propagated across internal networks in NIC, impacting operations.",1,Malware
+A phishing campaign targeting Power users in Chennai asked for OTP and credentials.,1,Phishing
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UIDAI.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UPI.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+"Traffic floods targeted an ISP backbone in gov.in, causing intermittent outages.",1,DDoS
+The company released financial results and announced a new product roadmap.,0,Other
+A misconfigured S3 bucket in Indian revealed sensitive documents.,1,Data Leak
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in NCIIPC.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Credentials were dumped online after a breach in UPI.,1,Data Leak
+"A worm propagated across internal networks in Hyderabad, impacting operations.",1,Malware
+Regular software update improved system performance across the organization. This update was relevant for teams in NIC.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+"A ransomware incident impacted BFSI in NIC, encrypting servers and demanding payment.",1,Ransomware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UPI.,0,Other
+A misconfigured S3 bucket in Delhi revealed sensitive documents.,1,Data Leak
+Payment APIs in India suffered volumetric denial-of-service incidents.,1,DDoS
+A vendor onboarding communication was shared with employees.,0,Other
+Privilege escalation via zero-day was observed in India corporate endpoints.,1,Exploit
+Payment APIs in UIDAI suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+Credentials were dumped online after a breach in Mumbai.,1,Data Leak
+"Hospital systems in RBI were locked by ransomware, disrupting operations.",1,Ransomware
+A data leak exposed customer records of a Transport provider in Delhi.,1,Data Leak
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in CERT-In.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UIDAI.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A phishing campaign targeting Healthcare users in Hyderabad asked for OTP and credentials.,1,Phishing
+The company released financial results and announced a new product roadmap.,0,Other
+A DDoS attack disrupted online services of a major Education portal in India.,1,DDoS
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Credential-harvesting emails impersonated a bank in Mumbai to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+"Hospital systems in gov.in were locked by ransomware, disrupting operations.",1,Ransomware
+Smishing messages in India lured telecom subscribers to fake KYC pages.,1,Phishing
+A vendor onboarding communication was shared with employees. This update was relevant for teams in gov.in.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in India.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Chennai for RCE.,1,Exploit
+Press release announced new partnerships in the telecom industry.,0,Other
+Payment APIs in Indian suffered volumetric denial-of-service incidents.,1,DDoS
+Scheduled maintenance was completed with no security incident reported.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Unpatched servers in Delhi were exploited with public PoCs.,1,Exploit
+"Double-extortion ransomware hit a data center in Bengaluru, exfiltrating files from Telecom.",1,Ransomware
+Attackers exploited a CVE affecting internet-facing systems in gov.in for RCE.,1,Exploit
+Internal audit completed with recommendations for process optimization.,0,Other
+"Double-extortion ransomware hit a data center in CERT-In, exfiltrating files from IT.",1,Ransomware
+Privilege escalation via zero-day was observed in Aadhaar corporate endpoints.,1,Exploit
+"A ransomware incident impacted Education in CERT-In, encrypting servers and demanding payment.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Indian.,0,Other
+"Hospital systems in Chennai were locked by ransomware, disrupting operations.",1,Ransomware
+Payment APIs in Bengaluru suffered volumetric denial-of-service incidents.,1,DDoS
+Internal audit completed with recommendations for process optimization.,0,Other
+A trojanized installer spread via email attachments in gov.in.,1,Malware
+Smishing messages in UIDAI lured telecom subscribers to fake KYC pages.,1,Phishing
+"A ransomware incident impacted BFSI in India, encrypting servers and demanding payment.",1,Ransomware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in RBI.,0,Other
+A trojanized installer spread via email attachments in Chennai.,1,Malware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in Aadhaar.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in India.,0,Other
+"A worm propagated across internal networks in Bengaluru, impacting operations.",1,Malware
+Attackers exploited a CVE affecting internet-facing systems in NIC for RCE.,1,Exploit
+"Malware infected endpoints in a Healthcare firm in UPI, dropping an infostealer.",1,Malware
+Internal audit completed with recommendations for process optimization.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+"A ransomware incident impacted Education in UPI, encrypting servers and demanding payment.",1,Ransomware
+A DDoS attack disrupted online services of a major Transport portal in Bengaluru.,1,DDoS
+"Malware infected endpoints in a Healthcare firm in Hyderabad, dropping an infostealer.",1,Malware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in gov.in.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in India.,0,Other
+"A worm propagated across internal networks in Aadhaar, impacting operations.",1,Malware
+"Double-extortion ransomware hit a data center in gov.in, exfiltrating files from IT.",1,Ransomware
+Credentials were dumped online after a breach in RBI.,1,Data Leak
+The company released financial results and announced a new product roadmap.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A trojanized installer spread via email attachments in Indian.,1,Malware
+A data leak exposed customer records of a Education provider in Bengaluru.,1,Data Leak
+Internal audit completed with recommendations for process optimization.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Unpatched servers in Bengaluru were exploited with public PoCs.,1,Exploit
+Smishing messages in Chennai lured telecom subscribers to fake KYC pages.,1,Phishing
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UIDAI.,0,Other
+Payment APIs in Delhi suffered volumetric denial-of-service incidents.,1,DDoS
+The company released financial results and announced a new product roadmap.,0,Other
+"A worm propagated across internal networks in Pune, impacting operations.",1,Malware
+"Double-extortion ransomware hit a data center in Pune, exfiltrating files from Power.",1,Ransomware
+"A worm propagated across internal networks in Bengaluru, impacting operations.",1,Malware
+A vendor onboarding communication was shared with employees.,0,Other
+Privilege escalation via zero-day was observed in CERT-In corporate endpoints.,1,Exploit
+The company released financial results and announced a new product roadmap.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in NIC.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+"Traffic floods targeted an ISP backbone in Mumbai, causing intermittent outages.",1,DDoS
+A vendor onboarding communication was shared with employees. This update was relevant for teams in India.,0,Other
+Payment APIs in NIC suffered volumetric denial-of-service incidents.,1,DDoS
+"Malware infected endpoints in a Telecom firm in Bengaluru, dropping an infostealer.",1,Malware
+Privilege escalation via zero-day was observed in Indian corporate endpoints.,1,Exploit
+Regular software update improved system performance across the organization. This update was relevant for teams in NIC.,0,Other
+Credentials were dumped online after a breach in Mumbai.,1,Data Leak
+Regular software update improved system performance across the organization.,0,Other
+A misconfigured S3 bucket in UPI revealed sensitive documents.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"Double-extortion ransomware hit a data center in India, exfiltrating files from Healthcare.",1,Ransomware
+A DDoS attack disrupted online services of a major Govt portal in Aadhaar.,1,DDoS
+A vendor onboarding communication was shared with employees.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Aadhaar.,0,Other
+A DDoS attack disrupted online services of a major Education portal in RBI.,1,DDoS
+Unpatched servers in gov.in were exploited with public PoCs.,1,Exploit
+Payment APIs in Hyderabad suffered volumetric denial-of-service incidents.,1,DDoS
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"A worm propagated across internal networks in Bengaluru, impacting operations.",1,Malware
+Regular software update improved system performance across the organization. This update was relevant for teams in RBI.,0,Other
+Smishing messages in UPI lured telecom subscribers to fake KYC pages.,1,Phishing
+Regular software update improved system performance across the organization.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Aadhaar.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+A data leak exposed customer records of a Transport provider in CERT-In.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"Traffic floods targeted an ISP backbone in RBI, causing intermittent outages.",1,DDoS
+A DDoS attack disrupted online services of a major Govt portal in Hyderabad.,1,DDoS
+A data leak exposed customer records of a Healthcare provider in Delhi.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+"Traffic floods targeted an ISP backbone in Pune, causing intermittent outages.",1,DDoS
+A DDoS attack disrupted online services of a major Telecom portal in Aadhaar.,1,DDoS
+Payment APIs in Pune suffered volumetric denial-of-service incidents.,1,DDoS
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A phishing campaign targeting Education users in India asked for OTP and credentials.,1,Phishing
+A trojanized installer spread via email attachments in NIC.,1,Malware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"Malware infected endpoints in a Power firm in Mumbai, dropping an infostealer.",1,Malware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NCIIPC.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UPI.,0,Other
+"Malware infected endpoints in a Transport firm in RBI, dropping an infostealer.",1,Malware
+Payment APIs in NIC suffered volumetric denial-of-service incidents.,1,DDoS
+Internal audit completed with recommendations for process optimization.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NCIIPC.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+"Malware infected endpoints in a Transport firm in Indian, dropping an infostealer.",1,Malware
+A trojanized installer spread via email attachments in Bengaluru.,1,Malware
+A misconfigured S3 bucket in Chennai revealed sensitive documents.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in gov.in.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A DDoS attack disrupted online services of a major Healthcare portal in UPI.,1,DDoS
+Regular software update improved system performance across the organization.,0,Other
+Payment APIs in Chennai suffered volumetric denial-of-service incidents.,1,DDoS
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A phishing campaign targeting BFSI users in UPI asked for OTP and credentials.,1,Phishing
+"Double-extortion ransomware hit a data center in Mumbai, exfiltrating files from Education.",1,Ransomware
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in India.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in CERT-In for RCE.,1,Exploit
+"Hospital systems in Delhi were locked by ransomware, disrupting operations.",1,Ransomware
+Attackers exploited a CVE affecting internet-facing systems in Chennai for RCE.,1,Exploit
+A DDoS attack disrupted online services of a major Healthcare portal in Aadhaar.,1,DDoS
+Internal audit completed with recommendations for process optimization.,0,Other
+Credentials were dumped online after a breach in NIC.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in CERT-In.,0,Other
+"Traffic floods targeted an ISP backbone in India, causing intermittent outages.",1,DDoS
+A DDoS attack disrupted online services of a major BFSI portal in gov.in.,1,DDoS
+"A ransomware incident impacted IT in Bengaluru, encrypting servers and demanding payment.",1,Ransomware
+A trojanized installer spread via email attachments in Pune.,1,Malware
+Payment APIs in Hyderabad suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UIDAI.,0,Other
+A data leak exposed customer records of a IT provider in RBI.,1,Data Leak
+"Hospital systems in UIDAI were locked by ransomware, disrupting operations.",1,Ransomware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Aadhaar.,0,Other
+A data leak exposed customer records of a Power provider in India.,1,Data Leak
+Attackers exploited a CVE affecting internet-facing systems in Bengaluru for RCE.,1,Exploit
+"A ransomware incident impacted Power in India, encrypting servers and demanding payment.",1,Ransomware
+Internal audit completed with recommendations for process optimization.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in RBI.,0,Other
+"A ransomware incident impacted Telecom in Bengaluru, encrypting servers and demanding payment.",1,Ransomware
+Unpatched servers in RBI were exploited with public PoCs.,1,Exploit
+Payment APIs in Pune suffered volumetric denial-of-service incidents.,1,DDoS
+Payment APIs in NIC suffered volumetric denial-of-service incidents.,1,DDoS
+"Malware infected endpoints in a Power firm in NIC, dropping an infostealer.",1,Malware
+A DDoS attack disrupted online services of a major Govt portal in UIDAI.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+Unpatched servers in Delhi were exploited with public PoCs.,1,Exploit
+A data leak exposed customer records of a Healthcare provider in UPI.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UIDAI.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in NCIIPC.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in Aadhaar.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+"A worm propagated across internal networks in gov.in, impacting operations.",1,Malware
+The company released financial results and announced a new product roadmap.,0,Other
+A misconfigured S3 bucket in Pune revealed sensitive documents.,1,Data Leak
+Press release announced new partnerships in the telecom industry.,0,Other
+Privilege escalation via zero-day was observed in India corporate endpoints.,1,Exploit
+Privilege escalation via zero-day was observed in NIC corporate endpoints.,1,Exploit
+The company released financial results and announced a new product roadmap. This update was relevant for teams in gov.in.,0,Other
+"Traffic floods targeted an ISP backbone in Aadhaar, causing intermittent outages.",1,DDoS
+A trojanized installer spread via email attachments in Aadhaar.,1,Malware
+A vendor onboarding communication was shared with employees.,0,Other
+Credentials were dumped online after a breach in UIDAI.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in NIC for RCE.,1,Exploit
+Smishing messages in Aadhaar lured telecom subscribers to fake KYC pages.,1,Phishing
+Credential-harvesting emails impersonated a bank in CERT-In to steal login details.,1,Phishing
+"Traffic floods targeted an ISP backbone in Pune, causing intermittent outages.",1,DDoS
+Regular software update improved system performance across the organization.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+"A ransomware incident impacted Education in Chennai, encrypting servers and demanding payment.",1,Ransomware
+A DDoS attack disrupted online services of a major Govt portal in Bengaluru.,1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in Indian.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NIC.,0,Other
+Unpatched servers in Aadhaar were exploited with public PoCs.,1,Exploit
+A phishing campaign targeting Healthcare users in Chennai asked for OTP and credentials.,1,Phishing
+Credential-harvesting emails impersonated a bank in UIDAI to steal login details.,1,Phishing
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in India.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in India.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+A data leak exposed customer records of a IT provider in NCIIPC.,1,Data Leak
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in NCIIPC.,0,Other
+"Malware infected endpoints in a Education firm in Aadhaar, dropping an infostealer.",1,Malware
+Attackers exploited a CVE affecting internet-facing systems in Delhi for RCE.,1,Exploit
+Attackers exploited a CVE affecting internet-facing systems in RBI for RCE.,1,Exploit
+A DDoS attack disrupted online services of a major IT portal in UPI.,1,DDoS
+A trojanized installer spread via email attachments in RBI.,1,Malware
+"Malware infected endpoints in a Power firm in UIDAI, dropping an infostealer.",1,Malware
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+Payment APIs in NCIIPC suffered volumetric denial-of-service incidents.,1,DDoS
+A data leak exposed customer records of a Power provider in India.,1,Data Leak
+Press release announced new partnerships in the telecom industry.,0,Other
+Smishing messages in Mumbai lured telecom subscribers to fake KYC pages.,1,Phishing
+A phishing campaign targeting IT users in Mumbai asked for OTP and credentials.,1,Phishing
+"A worm propagated across internal networks in Delhi, impacting operations.",1,Malware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Indian.,0,Other
+A misconfigured S3 bucket in India revealed sensitive documents.,1,Data Leak
+Attackers exploited a CVE affecting internet-facing systems in gov.in for RCE.,1,Exploit
+The company released financial results and announced a new product roadmap.,0,Other
+A trojanized installer spread via email attachments in Indian.,1,Malware
+Press release announced new partnerships in the telecom industry.,0,Other
+A misconfigured S3 bucket in NCIIPC revealed sensitive documents.,1,Data Leak
+Internal audit completed with recommendations for process optimization.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+"Hospital systems in Hyderabad were locked by ransomware, disrupting operations.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+Credentials were dumped online after a breach in India.,1,Data Leak
+Internal audit completed with recommendations for process optimization.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Credential-harvesting emails impersonated a bank in Mumbai to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization.,0,Other
+Smishing messages in Mumbai lured telecom subscribers to fake KYC pages.,1,Phishing
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"A ransomware incident impacted Transport in Mumbai, encrypting servers and demanding payment.",1,Ransomware
+Smishing messages in Delhi lured telecom subscribers to fake KYC pages.,1,Phishing
+Credentials were dumped online after a breach in gov.in.,1,Data Leak
+A vendor onboarding communication was shared with employees.,0,Other
+Payment APIs in NCIIPC suffered volumetric denial-of-service incidents.,1,DDoS
+Attackers exploited a CVE affecting internet-facing systems in Bengaluru for RCE.,1,Exploit
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UPI.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A misconfigured S3 bucket in gov.in revealed sensitive documents.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in India.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NIC.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UPI.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UIDAI.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+"Traffic floods targeted an ISP backbone in NIC, causing intermittent outages.",1,DDoS
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in India.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+"A worm propagated across internal networks in NIC, impacting operations.",1,Malware
+"A ransomware incident impacted Healthcare in UPI, encrypting servers and demanding payment.",1,Ransomware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UIDAI.,0,Other
+Unpatched servers in NCIIPC were exploited with public PoCs.,1,Exploit
+A phishing campaign targeting Transport users in UPI asked for OTP and credentials.,1,Phishing
+Smishing messages in Aadhaar lured telecom subscribers to fake KYC pages.,1,Phishing
+A trojanized installer spread via email attachments in India.,1,Malware
+Payment APIs in NCIIPC suffered volumetric denial-of-service incidents.,1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in UPI.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in Aadhaar.,0,Other
+"Hospital systems in India were locked by ransomware, disrupting operations.",1,Ransomware
+Privilege escalation via zero-day was observed in Aadhaar corporate endpoints.,1,Exploit
+Credential-harvesting emails impersonated a bank in Aadhaar to steal login details.,1,Phishing
+Regular software update improved system performance across the organization. This update was relevant for teams in gov.in.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Delhi for RCE.,1,Exploit
+Regular software update improved system performance across the organization. This update was relevant for teams in Aadhaar.,0,Other
+A misconfigured S3 bucket in India revealed sensitive documents.,1,Data Leak
+A misconfigured S3 bucket in NIC revealed sensitive documents.,1,Data Leak
+A DDoS attack disrupted online services of a major Transport portal in Aadhaar.,1,DDoS
+Credential-harvesting emails impersonated a bank in UPI to steal login details.,1,Phishing
+"Traffic floods targeted an ISP backbone in Bengaluru, causing intermittent outages.",1,DDoS
+Credential-harvesting emails impersonated a bank in NIC to steal login details.,1,Phishing
+Credential-harvesting emails impersonated a bank in Indian to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UIDAI.,0,Other
+Credential-harvesting emails impersonated a bank in Indian to steal login details.,1,Phishing
+Credentials were dumped online after a breach in Bengaluru.,1,Data Leak
+"A ransomware incident impacted Telecom in NIC, encrypting servers and demanding payment.",1,Ransomware
+"Double-extortion ransomware hit a data center in Delhi, exfiltrating files from Telecom.",1,Ransomware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+Unpatched servers in gov.in were exploited with public PoCs.,1,Exploit
+Smishing messages in Aadhaar lured telecom subscribers to fake KYC pages.,1,Phishing
+A misconfigured S3 bucket in CERT-In revealed sensitive documents.,1,Data Leak
+Credential-harvesting emails impersonated a bank in Aadhaar to steal login details.,1,Phishing
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Privilege escalation via zero-day was observed in India corporate endpoints.,1,Exploit
+Credentials were dumped online after a breach in Indian.,1,Data Leak
+Credentials were dumped online after a breach in Chennai.,1,Data Leak
+Press release announced new partnerships in the telecom industry.,0,Other
+Unpatched servers in RBI were exploited with public PoCs.,1,Exploit
+"Malware infected endpoints in a Power firm in UPI, dropping an infostealer.",1,Malware
+Regular software update improved system performance across the organization.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in NIC.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Smishing messages in Hyderabad lured telecom subscribers to fake KYC pages.,1,Phishing
+A phishing campaign targeting Transport users in NIC asked for OTP and credentials.,1,Phishing
+Privilege escalation via zero-day was observed in UIDAI corporate endpoints.,1,Exploit
+"Double-extortion ransomware hit a data center in Mumbai, exfiltrating files from BFSI.",1,Ransomware
+A DDoS attack disrupted online services of a major Govt portal in Mumbai.,1,DDoS
+A DDoS attack disrupted online services of a major IT portal in Indian.,1,DDoS
+Unpatched servers in CERT-In were exploited with public PoCs.,1,Exploit
+Regular software update improved system performance across the organization. This update was relevant for teams in UPI.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+"A ransomware incident impacted Education in Delhi, encrypting servers and demanding payment.",1,Ransomware
+Smishing messages in Aadhaar lured telecom subscribers to fake KYC pages.,1,Phishing
+Regular software update improved system performance across the organization.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NCIIPC.,0,Other
+"A ransomware incident impacted Education in NIC, encrypting servers and demanding payment.",1,Ransomware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+Privilege escalation via zero-day was observed in RBI corporate endpoints.,1,Exploit
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UPI.,0,Other
+A misconfigured S3 bucket in UPI revealed sensitive documents.,1,Data Leak
+Credentials were dumped online after a breach in gov.in.,1,Data Leak
+Attackers exploited a CVE affecting internet-facing systems in Pune for RCE.,1,Exploit
+"Double-extortion ransomware hit a data center in UIDAI, exfiltrating files from Power.",1,Ransomware
+"Double-extortion ransomware hit a data center in CERT-In, exfiltrating files from Education.",1,Ransomware
+Press release announced new partnerships in the telecom industry.,0,Other
+A phishing campaign targeting Power users in Chennai asked for OTP and credentials.,1,Phishing
+Regular software update improved system performance across the organization.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in NCIIPC for RCE.,1,Exploit
+Attackers exploited a CVE affecting internet-facing systems in RBI for RCE.,1,Exploit
+Privilege escalation via zero-day was observed in NIC corporate endpoints.,1,Exploit
+"A ransomware incident impacted BFSI in CERT-In, encrypting servers and demanding payment.",1,Ransomware
+Payment APIs in Pune suffered volumetric denial-of-service incidents.,1,DDoS
+Payment APIs in NIC suffered volumetric denial-of-service incidents.,1,DDoS
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
+Privilege escalation via zero-day was observed in India corporate endpoints.,1,Exploit
+"Traffic floods targeted an ISP backbone in Aadhaar, causing intermittent outages.",1,DDoS
+Credential-harvesting emails impersonated a bank in UPI to steal login details.,1,Phishing
+Privilege escalation via zero-day was observed in Hyderabad corporate endpoints.,1,Exploit
+Regular software update improved system performance across the organization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in CERT-In.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Aadhaar.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in gov.in.,0,Other
+"Traffic floods targeted an ISP backbone in Delhi, causing intermittent outages.",1,DDoS
+Regular software update improved system performance across the organization.,0,Other
+A trojanized installer spread via email attachments in India.,1,Malware
+"A ransomware incident impacted Telecom in RBI, encrypting servers and demanding payment.",1,Ransomware
+Press release announced new partnerships in the telecom industry.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UIDAI.,0,Other
+"Traffic floods targeted an ISP backbone in Indian, causing intermittent outages.",1,DDoS
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UPI.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Indian.,0,Other
+"Traffic floods targeted an ISP backbone in UPI, causing intermittent outages.",1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in UPI.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Smishing messages in Bengaluru lured telecom subscribers to fake KYC pages.,1,Phishing
+A phishing campaign targeting Education users in UPI asked for OTP and credentials.,1,Phishing
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in gov.in.,0,Other
+Credential-harvesting emails impersonated a bank in UIDAI to steal login details.,1,Phishing
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in RBI.,0,Other
+"Malware infected endpoints in a Education firm in CERT-In, dropping an infostealer.",1,Malware
+"Malware infected endpoints in a Healthcare firm in CERT-In, dropping an infostealer.",1,Malware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Credentials were dumped online after a breach in India.,1,Data Leak
+A vendor onboarding communication was shared with employees.,0,Other
+Credential-harvesting emails impersonated a bank in UPI to steal login details.,1,Phishing
+A phishing campaign targeting Telecom users in UIDAI asked for OTP and credentials.,1,Phishing
+Credentials were dumped online after a breach in Hyderabad.,1,Data Leak
+Smishing messages in UIDAI lured telecom subscribers to fake KYC pages.,1,Phishing
+"A worm propagated across internal networks in Bengaluru, impacting operations.",1,Malware
+Press release announced new partnerships in the telecom industry.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UIDAI.,0,Other
+A trojanized installer spread via email attachments in CERT-In.,1,Malware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in RBI.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+"A worm propagated across internal networks in Bengaluru, impacting operations.",1,Malware
+A vendor onboarding communication was shared with employees.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Credential-harvesting emails impersonated a bank in Delhi to steal login details.,1,Phishing
+A data leak exposed customer records of a Healthcare provider in UIDAI.,1,Data Leak
+Regular software update improved system performance across the organization. This update was relevant for teams in NIC.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in RBI.,0,Other
+Credential-harvesting emails impersonated a bank in NCIIPC to steal login details.,1,Phishing
+A DDoS attack disrupted online services of a major Education portal in India.,1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NCIIPC.,0,Other
+"Double-extortion ransomware hit a data center in India, exfiltrating files from Transport.",1,Ransomware
+"Hospital systems in UPI were locked by ransomware, disrupting operations.",1,Ransomware
+"Double-extortion ransomware hit a data center in RBI, exfiltrating files from Education.",1,Ransomware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UPI.,0,Other
+"A worm propagated across internal networks in gov.in, impacting operations.",1,Malware
+A phishing campaign targeting Power users in India asked for OTP and credentials.,1,Phishing
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+Payment APIs in Bengaluru suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+Smishing messages in NCIIPC lured telecom subscribers to fake KYC pages.,1,Phishing
+"Malware infected endpoints in a Transport firm in CERT-In, dropping an infostealer.",1,Malware
+A DDoS attack disrupted online services of a major Telecom portal in Delhi.,1,DDoS
+Privilege escalation via zero-day was observed in NIC corporate endpoints.,1,Exploit
+"A worm propagated across internal networks in Pune, impacting operations.",1,Malware
+Press release announced new partnerships in the telecom industry.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in gov.in for RCE.,1,Exploit
+A trojanized installer spread via email attachments in UPI.,1,Malware
+Internal audit completed with recommendations for process optimization.,0,Other
+"Double-extortion ransomware hit a data center in NIC, exfiltrating files from BFSI.",1,Ransomware
+Privilege escalation via zero-day was observed in Indian corporate endpoints.,1,Exploit
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Privilege escalation via zero-day was observed in RBI corporate endpoints.,1,Exploit
+"Double-extortion ransomware hit a data center in RBI, exfiltrating files from IT.",1,Ransomware
+Internal audit completed with recommendations for process optimization.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in UPI.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in India.,0,Other
+A data leak exposed customer records of a BFSI provider in India.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Smishing messages in gov.in lured telecom subscribers to fake KYC pages.,1,Phishing
+Credentials were dumped online after a breach in Delhi.,1,Data Leak
+A misconfigured S3 bucket in Chennai revealed sensitive documents.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NIC.,0,Other
+"Traffic floods targeted an ISP backbone in Mumbai, causing intermittent outages.",1,DDoS
+A DDoS attack disrupted online services of a major IT portal in Pune.,1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in UPI.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UPI.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Aadhaar.,0,Other
+Payment APIs in UPI suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in CERT-In.,0,Other
+A trojanized installer spread via email attachments in India.,1,Malware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in NIC.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in RBI.,0,Other
+Unpatched servers in Delhi were exploited with public PoCs.,1,Exploit
+A vendor onboarding communication was shared with employees.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in gov.in.,0,Other
+"Malware infected endpoints in a Power firm in gov.in, dropping an infostealer.",1,Malware
+Unpatched servers in NCIIPC were exploited with public PoCs.,1,Exploit
+Regular software update improved system performance across the organization. This update was relevant for teams in gov.in.,0,Other
+"Double-extortion ransomware hit a data center in Indian, exfiltrating files from BFSI.",1,Ransomware
+Regular software update improved system performance across the organization. This update was relevant for teams in NCIIPC.,0,Other
+"Double-extortion ransomware hit a data center in Hyderabad, exfiltrating files from Transport.",1,Ransomware
+Internal audit completed with recommendations for process optimization.,0,Other
+"Hospital systems in CERT-In were locked by ransomware, disrupting operations.",1,Ransomware
+A phishing campaign targeting IT users in CERT-In asked for OTP and credentials.,1,Phishing
+"A ransomware incident impacted IT in India, encrypting servers and demanding payment.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+Credentials were dumped online after a breach in Delhi.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in India.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UIDAI.,0,Other
+A data leak exposed customer records of a IT provider in Aadhaar.,1,Data Leak
+"A ransomware incident impacted Govt in gov.in, encrypting servers and demanding payment.",1,Ransomware
+Press release announced new partnerships in the telecom industry.,0,Other
+A trojanized installer spread via email attachments in RBI.,1,Malware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Unpatched servers in Pune were exploited with public PoCs.,1,Exploit
+Internal audit completed with recommendations for process optimization.,0,Other
+Privilege escalation via zero-day was observed in RBI corporate endpoints.,1,Exploit
+The company released financial results and announced a new product roadmap.,0,Other
+"Traffic floods targeted an ISP backbone in UPI, causing intermittent outages.",1,DDoS
+"A worm propagated across internal networks in gov.in, impacting operations.",1,Malware
+Credential-harvesting emails impersonated a bank in Indian to steal login details.,1,Phishing
+"A worm propagated across internal networks in Delhi, impacting operations.",1,Malware
+Regular software update improved system performance across the organization.,0,Other
+"A worm propagated across internal networks in Pune, impacting operations.",1,Malware
+Internal audit completed with recommendations for process optimization.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"Hospital systems in Hyderabad were locked by ransomware, disrupting operations.",1,Ransomware
+A trojanized installer spread via email attachments in Mumbai.,1,Malware
+"Hospital systems in Bengaluru were locked by ransomware, disrupting operations.",1,Ransomware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in gov.in.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Delhi for RCE.,1,Exploit
+A misconfigured S3 bucket in India revealed sensitive documents.,1,Data Leak
+Credential-harvesting emails impersonated a bank in NIC to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization.,0,Other
+"Hospital systems in Chennai were locked by ransomware, disrupting operations.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"Malware infected endpoints in a BFSI firm in Hyderabad, dropping an infostealer.",1,Malware
+"Traffic floods targeted an ISP backbone in UIDAI, causing intermittent outages.",1,DDoS
+Smishing messages in Bengaluru lured telecom subscribers to fake KYC pages.,1,Phishing
+"Double-extortion ransomware hit a data center in NIC, exfiltrating files from Telecom.",1,Ransomware
+"Traffic floods targeted an ISP backbone in Delhi, causing intermittent outages.",1,DDoS
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"Traffic floods targeted an ISP backbone in Pune, causing intermittent outages.",1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NCIIPC.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Privilege escalation via zero-day was observed in Pune corporate endpoints.,1,Exploit
+Internal audit completed with recommendations for process optimization.,0,Other
+"Malware infected endpoints in a Education firm in Mumbai, dropping an infostealer.",1,Malware
+Unpatched servers in NIC were exploited with public PoCs.,1,Exploit
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Payment APIs in gov.in suffered volumetric denial-of-service incidents.,1,DDoS
+"Malware infected endpoints in a Education firm in Chennai, dropping an infostealer.",1,Malware
+"Hospital systems in RBI were locked by ransomware, disrupting operations.",1,Ransomware
+Credential-harvesting emails impersonated a bank in gov.in to steal login details.,1,Phishing
+Unpatched servers in Delhi were exploited with public PoCs.,1,Exploit
+"Double-extortion ransomware hit a data center in NIC, exfiltrating files from Healthcare.",1,Ransomware
+Internal audit completed with recommendations for process optimization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+"Double-extortion ransomware hit a data center in CERT-In, exfiltrating files from IT.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Credentials were dumped online after a breach in India.,1,Data Leak
+"Double-extortion ransomware hit a data center in NCIIPC, exfiltrating files from IT.",1,Ransomware
+Privilege escalation via zero-day was observed in Mumbai corporate endpoints.,1,Exploit
+A vendor onboarding communication was shared with employees.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UPI.,0,Other
+Unpatched servers in gov.in were exploited with public PoCs.,1,Exploit
+Credential-harvesting emails impersonated a bank in Chennai to steal login details.,1,Phishing
+Regular software update improved system performance across the organization. This update was relevant for teams in UPI.,0,Other
+Privilege escalation via zero-day was observed in Bengaluru corporate endpoints.,1,Exploit
+Press release announced new partnerships in the telecom industry.,0,Other
+A misconfigured S3 bucket in India revealed sensitive documents.,1,Data Leak
+"Double-extortion ransomware hit a data center in Mumbai, exfiltrating files from BFSI.",1,Ransomware
+Internal audit completed with recommendations for process optimization.,0,Other
+"A ransomware incident impacted Telecom in Indian, encrypting servers and demanding payment.",1,Ransomware
+"A ransomware incident impacted Healthcare in Bengaluru, encrypting servers and demanding payment.",1,Ransomware
+"A ransomware incident impacted Healthcare in Hyderabad, encrypting servers and demanding payment.",1,Ransomware
+Regular software update improved system performance across the organization. This update was relevant for teams in Indian.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in NCIIPC.,0,Other
+"Double-extortion ransomware hit a data center in Bengaluru, exfiltrating files from Govt.",1,Ransomware
+Smishing messages in NCIIPC lured telecom subscribers to fake KYC pages.,1,Phishing
+Credentials were dumped online after a breach in Indian.,1,Data Leak
+A phishing campaign targeting Govt users in CERT-In asked for OTP and credentials.,1,Phishing
+Credential-harvesting emails impersonated a bank in CERT-In to steal login details.,1,Phishing
+Unpatched servers in NCIIPC were exploited with public PoCs.,1,Exploit
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in gov.in.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Chennai for RCE.,1,Exploit
+"Malware infected endpoints in a Power firm in UIDAI, dropping an infostealer.",1,Malware
+Smishing messages in CERT-In lured telecom subscribers to fake KYC pages.,1,Phishing
+Press release announced new partnerships in the telecom industry.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+A trojanized installer spread via email attachments in gov.in.,1,Malware
+Unpatched servers in Aadhaar were exploited with public PoCs.,1,Exploit
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in RBI.,0,Other
+A trojanized installer spread via email attachments in Pune.,1,Malware
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UIDAI.,0,Other
+A misconfigured S3 bucket in gov.in revealed sensitive documents.,1,Data Leak
+A trojanized installer spread via email attachments in Hyderabad.,1,Malware
+A DDoS attack disrupted online services of a major Healthcare portal in Delhi.,1,DDoS
+A vendor onboarding communication was shared with employees.,0,Other
+"A ransomware incident impacted Telecom in Pune, encrypting servers and demanding payment.",1,Ransomware
+"A worm propagated across internal networks in UPI, impacting operations.",1,Malware
+A trojanized installer spread via email attachments in gov.in.,1,Malware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"A ransomware incident impacted Power in Mumbai, encrypting servers and demanding payment.",1,Ransomware
+A phishing campaign targeting Transport users in Pune asked for OTP and credentials.,1,Phishing
+Internal audit completed with recommendations for process optimization.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in NIC.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Chennai for RCE.,1,Exploit
+A phishing campaign targeting BFSI users in NCIIPC asked for OTP and credentials.,1,Phishing
+Payment APIs in Indian suffered volumetric denial-of-service incidents.,1,DDoS
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UIDAI.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Indian.,0,Other
+Payment APIs in India suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Indian.,0,Other
+A misconfigured S3 bucket in Aadhaar revealed sensitive documents.,1,Data Leak
+"Malware infected endpoints in a Transport firm in Mumbai, dropping an infostealer.",1,Malware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NIC.,0,Other
+A phishing campaign targeting Education users in UPI asked for OTP and credentials.,1,Phishing
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in gov.in.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+A misconfigured S3 bucket in Mumbai revealed sensitive documents.,1,Data Leak
+Internal audit completed with recommendations for process optimization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Privilege escalation via zero-day was observed in NIC corporate endpoints.,1,Exploit
+A vendor onboarding communication was shared with employees.,0,Other
+A data leak exposed customer records of a Power provider in Mumbai.,1,Data Leak
+A vendor onboarding communication was shared with employees.,0,Other
+"Hospital systems in gov.in were locked by ransomware, disrupting operations.",1,Ransomware
+"Malware infected endpoints in a IT firm in Bengaluru, dropping an infostealer.",1,Malware
+"A worm propagated across internal networks in NIC, impacting operations.",1,Malware
+A data leak exposed customer records of a Transport provider in NIC.,1,Data Leak
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+"Malware infected endpoints in a Transport firm in UIDAI, dropping an infostealer.",1,Malware
+A trojanized installer spread via email attachments in UPI.,1,Malware
+"Malware infected endpoints in a Transport firm in India, dropping an infostealer.",1,Malware
+A phishing campaign targeting Education users in NIC asked for OTP and credentials.,1,Phishing
+Press release announced new partnerships in the telecom industry.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Unpatched servers in NIC were exploited with public PoCs.,1,Exploit
+A vendor onboarding communication was shared with employees. This update was relevant for teams in gov.in.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Indian.,0,Other
+Credentials were dumped online after a breach in NIC.,1,Data Leak
+Credential-harvesting emails impersonated a bank in Mumbai to steal login details.,1,Phishing
+A trojanized installer spread via email attachments in Indian.,1,Malware
+Credentials were dumped online after a breach in Delhi.,1,Data Leak
+A misconfigured S3 bucket in NIC revealed sensitive documents.,1,Data Leak
+Internal audit completed with recommendations for process optimization.,0,Other
+Credential-harvesting emails impersonated a bank in Pune to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in UIDAI.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Unpatched servers in UIDAI were exploited with public PoCs.,1,Exploit
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Indian.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in Aadhaar.,0,Other
+Smishing messages in gov.in lured telecom subscribers to fake KYC pages.,1,Phishing
+"A worm propagated across internal networks in gov.in, impacting operations.",1,Malware
+Regular software update improved system performance across the organization.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Chennai for RCE.,1,Exploit
+A phishing campaign targeting Govt users in Bengaluru asked for OTP and credentials.,1,Phishing
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UIDAI.,0,Other
+"Hospital systems in UIDAI were locked by ransomware, disrupting operations.",1,Ransomware
+"A worm propagated across internal networks in gov.in, impacting operations.",1,Malware
+Attackers exploited a CVE affecting internet-facing systems in Mumbai for RCE.,1,Exploit
+A vendor onboarding communication was shared with employees.,0,Other
+"Traffic floods targeted an ISP backbone in Chennai, causing intermittent outages.",1,DDoS
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UIDAI.,0,Other
+"A worm propagated across internal networks in Bengaluru, impacting operations.",1,Malware
+Credentials were dumped online after a breach in India.,1,Data Leak
+Unpatched servers in UIDAI were exploited with public PoCs.,1,Exploit
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in Aadhaar.,0,Other
+Credentials were dumped online after a breach in RBI.,1,Data Leak
+Credentials were dumped online after a breach in Mumbai.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NCIIPC.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in RBI.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+"Hospital systems in Aadhaar were locked by ransomware, disrupting operations.",1,Ransomware
+Press release announced new partnerships in the telecom industry.,0,Other
+Payment APIs in Indian suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+A DDoS attack disrupted online services of a major Education portal in Bengaluru.,1,DDoS
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in India.,0,Other
+Credential-harvesting emails impersonated a bank in CERT-In to steal login details.,1,Phishing
+Privilege escalation via zero-day was observed in CERT-In corporate endpoints.,1,Exploit
+Payment APIs in Bengaluru suffered volumetric denial-of-service incidents.,1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in RBI.,0,Other
+Credentials were dumped online after a breach in Delhi.,1,Data Leak
+A vendor onboarding communication was shared with employees. This update was relevant for teams in RBI.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UIDAI.,0,Other
+"A ransomware incident impacted Education in Delhi, encrypting servers and demanding payment.",1,Ransomware
+"A ransomware incident impacted BFSI in UIDAI, encrypting servers and demanding payment.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Smishing messages in gov.in lured telecom subscribers to fake KYC pages.,1,Phishing
+Regular software update improved system performance across the organization. This update was relevant for teams in gov.in.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UIDAI.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Chennai for RCE.,1,Exploit
+Internal audit completed with recommendations for process optimization.,0,Other
+A phishing campaign targeting Healthcare users in Hyderabad asked for OTP and credentials.,1,Phishing
+A DDoS attack disrupted online services of a major Healthcare portal in Mumbai.,1,DDoS
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in CERT-In.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Credentials were dumped online after a breach in NCIIPC.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in NCIIPC.,0,Other
+Payment APIs in UPI suffered volumetric denial-of-service incidents.,1,DDoS
+"Malware infected endpoints in a BFSI firm in Aadhaar, dropping an infostealer.",1,Malware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in gov.in.,0,Other
+"Double-extortion ransomware hit a data center in RBI, exfiltrating files from Healthcare.",1,Ransomware
+A vendor onboarding communication was shared with employees. This update was relevant for teams in NIC.,0,Other
+"Hospital systems in Chennai were locked by ransomware, disrupting operations.",1,Ransomware
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UIDAI.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+A phishing campaign targeting Education users in UIDAI asked for OTP and credentials.,1,Phishing
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NCIIPC.,0,Other
+Smishing messages in Indian lured telecom subscribers to fake KYC pages.,1,Phishing
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A DDoS attack disrupted online services of a major Healthcare portal in RBI.,1,DDoS
+A data leak exposed customer records of a Transport provider in UIDAI.,1,Data Leak
+A phishing campaign targeting Power users in Bengaluru asked for OTP and credentials.,1,Phishing
+"Malware infected endpoints in a BFSI firm in Delhi, dropping an infostealer.",1,Malware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in CERT-In.,0,Other
+"A ransomware incident impacted Education in NCIIPC, encrypting servers and demanding payment.",1,Ransomware
+Credential-harvesting emails impersonated a bank in Mumbai to steal login details.,1,Phishing
+Press release announced new partnerships in the telecom industry.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in gov.in.,0,Other
+Unpatched servers in CERT-In were exploited with public PoCs.,1,Exploit
+"A worm propagated across internal networks in Mumbai, impacting operations.",1,Malware
+A data leak exposed customer records of a IT provider in NCIIPC.,1,Data Leak
+"Hospital systems in NIC were locked by ransomware, disrupting operations.",1,Ransomware
+"Traffic floods targeted an ISP backbone in NCIIPC, causing intermittent outages.",1,DDoS
+A vendor onboarding communication was shared with employees.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+"A ransomware incident impacted Healthcare in Bengaluru, encrypting servers and demanding payment.",1,Ransomware
+Unpatched servers in RBI were exploited with public PoCs.,1,Exploit
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Indian for RCE.,1,Exploit
+Smishing messages in CERT-In lured telecom subscribers to fake KYC pages.,1,Phishing
+A misconfigured S3 bucket in RBI revealed sensitive documents.,1,Data Leak
+Regular software update improved system performance across the organization. This update was relevant for teams in Aadhaar.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Privilege escalation via zero-day was observed in NCIIPC corporate endpoints.,1,Exploit
+Credentials were dumped online after a breach in Hyderabad.,1,Data Leak
+A vendor onboarding communication was shared with employees. This update was relevant for teams in Indian.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+"A ransomware incident impacted Power in NCIIPC, encrypting servers and demanding payment.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in gov.in.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A phishing campaign targeting Healthcare users in Aadhaar asked for OTP and credentials.,1,Phishing
+A trojanized installer spread via email attachments in India.,1,Malware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in gov.in.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Credential-harvesting emails impersonated a bank in Indian to steal login details.,1,Phishing
+A data leak exposed customer records of a Education provider in Delhi.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in RBI.,0,Other
+Credential-harvesting emails impersonated a bank in gov.in to steal login details.,1,Phishing
+Credentials were dumped online after a breach in UIDAI.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in CERT-In.,0,Other
+Credentials were dumped online after a breach in NIC.,1,Data Leak
+Smishing messages in NCIIPC lured telecom subscribers to fake KYC pages.,1,Phishing
+Credentials were dumped online after a breach in India.,1,Data Leak
+"A worm propagated across internal networks in NCIIPC, impacting operations.",1,Malware
+A DDoS attack disrupted online services of a major Govt portal in Chennai.,1,DDoS
+A misconfigured S3 bucket in CERT-In revealed sensitive documents.,1,Data Leak
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Indian.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in CERT-In.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Credential-harvesting emails impersonated a bank in RBI to steal login details.,1,Phishing
+A DDoS attack disrupted online services of a major Telecom portal in Aadhaar.,1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in Aadhaar.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in RBI.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+"Hospital systems in Bengaluru were locked by ransomware, disrupting operations.",1,Ransomware
+Credential-harvesting emails impersonated a bank in CERT-In to steal login details.,1,Phishing
+Smishing messages in Aadhaar lured telecom subscribers to fake KYC pages.,1,Phishing
+A data leak exposed customer records of a Education provider in NCIIPC.,1,Data Leak
+Unpatched servers in Bengaluru were exploited with public PoCs.,1,Exploit
+Credential-harvesting emails impersonated a bank in Delhi to steal login details.,1,Phishing
+A DDoS attack disrupted online services of a major Healthcare portal in Pune.,1,DDoS
+A vendor onboarding communication was shared with employees. This update was relevant for teams in India.,0,Other
+A trojanized installer spread via email attachments in India.,1,Malware
+Regular software update improved system performance across the organization.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in NIC.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+A data leak exposed customer records of a Power provider in UIDAI.,1,Data Leak
+A DDoS attack disrupted online services of a major Healthcare portal in Pune.,1,DDoS
+A DDoS attack disrupted online services of a major Govt portal in Indian.,1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Aadhaar.,0,Other
+"Traffic floods targeted an ISP backbone in NCIIPC, causing intermittent outages.",1,DDoS
+"A ransomware incident impacted Govt in UPI, encrypting servers and demanding payment.",1,Ransomware
+"A ransomware incident impacted Govt in RBI, encrypting servers and demanding payment.",1,Ransomware
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in India.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Bengaluru for RCE.,1,Exploit
+A data leak exposed customer records of a Power provider in Pune.,1,Data Leak
+Credentials were dumped online after a breach in Mumbai.,1,Data Leak
+Smishing messages in gov.in lured telecom subscribers to fake KYC pages.,1,Phishing
+Regular software update improved system performance across the organization. This update was relevant for teams in NIC.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in RBI.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in UIDAI.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UPI.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NIC.,0,Other
+"Traffic floods targeted an ISP backbone in Indian, causing intermittent outages.",1,DDoS
+The company released financial results and announced a new product roadmap.,0,Other
+"Hospital systems in NCIIPC were locked by ransomware, disrupting operations.",1,Ransomware
+"A worm propagated across internal networks in Pune, impacting operations.",1,Malware
+The company released financial results and announced a new product roadmap.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+A data leak exposed customer records of a IT provider in gov.in.,1,Data Leak
+"A worm propagated across internal networks in UPI, impacting operations.",1,Malware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in UPI for RCE.,1,Exploit
+A vendor onboarding communication was shared with employees.,0,Other
+Payment APIs in Indian suffered volumetric denial-of-service incidents.,1,DDoS
+Credential-harvesting emails impersonated a bank in Bengaluru to steal login details.,1,Phishing
+A data leak exposed customer records of a BFSI provider in CERT-In.,1,Data Leak
+Credential-harvesting emails impersonated a bank in RBI to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Indian.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A trojanized installer spread via email attachments in Delhi.,1,Malware
+The company released financial results and announced a new product roadmap.,0,Other
+Unpatched servers in CERT-In were exploited with public PoCs.,1,Exploit
+Regular software update improved system performance across the organization.,0,Other
+"Traffic floods targeted an ISP backbone in Hyderabad, causing intermittent outages.",1,DDoS
+A vendor onboarding communication was shared with employees.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in India for RCE.,1,Exploit
+"A ransomware incident impacted Telecom in NCIIPC, encrypting servers and demanding payment.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UIDAI.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UIDAI.,0,Other
+A misconfigured S3 bucket in Chennai revealed sensitive documents.,1,Data Leak
+A misconfigured S3 bucket in Pune revealed sensitive documents.,1,Data Leak
+Unpatched servers in UIDAI were exploited with public PoCs.,1,Exploit
+Regular software update improved system performance across the organization.,0,Other
+Smishing messages in Aadhaar lured telecom subscribers to fake KYC pages.,1,Phishing
+"Hospital systems in CERT-In were locked by ransomware, disrupting operations.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+"Double-extortion ransomware hit a data center in India, exfiltrating files from Govt.",1,Ransomware
+Internal audit completed with recommendations for process optimization.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Credentials were dumped online after a breach in NCIIPC.,1,Data Leak
+"Hospital systems in Pune were locked by ransomware, disrupting operations.",1,Ransomware
+Payment APIs in NIC suffered volumetric denial-of-service incidents.,1,DDoS
+Privilege escalation via zero-day was observed in gov.in corporate endpoints.,1,Exploit
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UPI.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in CERT-In for RCE.,1,Exploit
+"A worm propagated across internal networks in CERT-In, impacting operations.",1,Malware
+"A ransomware incident impacted Transport in Aadhaar, encrypting servers and demanding payment.",1,Ransomware
+Smishing messages in CERT-In lured telecom subscribers to fake KYC pages.,1,Phishing
+Attackers exploited a CVE affecting internet-facing systems in NCIIPC for RCE.,1,Exploit
+A data leak exposed customer records of a Education provider in UIDAI.,1,Data Leak
+A vendor onboarding communication was shared with employees. This update was relevant for teams in NCIIPC.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in Aadhaar.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in RBI.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in CERT-In.,0,Other
+A DDoS attack disrupted online services of a major IT portal in NCIIPC.,1,DDoS
+Internal audit completed with recommendations for process optimization.,0,Other
+"Double-extortion ransomware hit a data center in Indian, exfiltrating files from Healthcare.",1,Ransomware
+Credential-harvesting emails impersonated a bank in NIC to steal login details.,1,Phishing
+A trojanized installer spread via email attachments in Bengaluru.,1,Malware
+A vendor onboarding communication was shared with employees.,0,Other
+"A ransomware incident impacted Govt in RBI, encrypting servers and demanding payment.",1,Ransomware
+A phishing campaign targeting Transport users in Aadhaar asked for OTP and credentials.,1,Phishing
+A vendor onboarding communication was shared with employees.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+"A worm propagated across internal networks in Aadhaar, impacting operations.",1,Malware
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+A data leak exposed customer records of a Transport provider in NIC.,1,Data Leak
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in NCIIPC.,0,Other
+Credentials were dumped online after a breach in UPI.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Aadhaar.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in CERT-In.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UPI.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+"A ransomware incident impacted Telecom in Chennai, encrypting servers and demanding payment.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UIDAI.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in Indian.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Indian.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in CERT-In.,0,Other
+"Hospital systems in Hyderabad were locked by ransomware, disrupting operations.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+Unpatched servers in Chennai were exploited with public PoCs.,1,Exploit
+Regular software update improved system performance across the organization.,0,Other
+A phishing campaign targeting Power users in Aadhaar asked for OTP and credentials.,1,Phishing
+Attackers exploited a CVE affecting internet-facing systems in Mumbai for RCE.,1,Exploit
+The company released financial results and announced a new product roadmap. This update was relevant for teams in India.,0,Other
+Smishing messages in Aadhaar lured telecom subscribers to fake KYC pages.,1,Phishing
+"Double-extortion ransomware hit a data center in Mumbai, exfiltrating files from Govt.",1,Ransomware
+"A worm propagated across internal networks in RBI, impacting operations.",1,Malware
+"A ransomware incident impacted Education in UIDAI, encrypting servers and demanding payment.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+Smishing messages in Pune lured telecom subscribers to fake KYC pages.,1,Phishing
+The company released financial results and announced a new product roadmap.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NIC.,0,Other
+"A worm propagated across internal networks in UIDAI, impacting operations.",1,Malware
+Payment APIs in Indian suffered volumetric denial-of-service incidents.,1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in India.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Regular software update improved system performance across the organization. This update was relevant for teams in Indian.,0,Other
+Credentials were dumped online after a breach in India.,1,Data Leak
+Payment APIs in India suffered volumetric denial-of-service incidents.,1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in NCIIPC.,0,Other
+"Traffic floods targeted an ISP backbone in RBI, causing intermittent outages.",1,DDoS
+"Hospital systems in Indian were locked by ransomware, disrupting operations.",1,Ransomware
+"A worm propagated across internal networks in Pune, impacting operations.",1,Malware
+A data leak exposed customer records of a IT provider in Indian.,1,Data Leak
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in Indian.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in Aadhaar.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Aadhaar for RCE.,1,Exploit
+Regular software update improved system performance across the organization.,0,Other
+Privilege escalation via zero-day was observed in NIC corporate endpoints.,1,Exploit
+The company released financial results and announced a new product roadmap.,0,Other
+"A ransomware incident impacted Education in NIC, encrypting servers and demanding payment.",1,Ransomware
+"A worm propagated across internal networks in CERT-In, impacting operations.",1,Malware
+The company released financial results and announced a new product roadmap.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Credentials were dumped online after a breach in NIC.,1,Data Leak
+"A worm propagated across internal networks in Aadhaar, impacting operations.",1,Malware
+"Hospital systems in Chennai were locked by ransomware, disrupting operations.",1,Ransomware
+A data leak exposed customer records of a Govt provider in RBI.,1,Data Leak
+"Hospital systems in RBI were locked by ransomware, disrupting operations.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+"Double-extortion ransomware hit a data center in Aadhaar, exfiltrating files from Education.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A DDoS attack disrupted online services of a major Healthcare portal in gov.in.,1,DDoS
+"Traffic floods targeted an ISP backbone in RBI, causing intermittent outages.",1,DDoS
+Internal audit completed with recommendations for process optimization.,0,Other
+A trojanized installer spread via email attachments in NIC.,1,Malware
+"Hospital systems in Mumbai were locked by ransomware, disrupting operations.",1,Ransomware
+"Hospital systems in UIDAI were locked by ransomware, disrupting operations.",1,Ransomware
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+Payment APIs in CERT-In suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in NIC.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in India.,0,Other
+"Malware infected endpoints in a Healthcare firm in Chennai, dropping an infostealer.",1,Malware
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in NCIIPC.,0,Other
+"Double-extortion ransomware hit a data center in Delhi, exfiltrating files from BFSI.",1,Ransomware
+Credentials were dumped online after a breach in Pune.,1,Data Leak
+A phishing campaign targeting Power users in NCIIPC asked for OTP and credentials.,1,Phishing
+A phishing campaign targeting IT users in gov.in asked for OTP and credentials.,1,Phishing
+A misconfigured S3 bucket in gov.in revealed sensitive documents.,1,Data Leak
+The company released financial results and announced a new product roadmap.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in CERT-In.,0,Other
+A trojanized installer spread via email attachments in India.,1,Malware
+Press release announced new partnerships in the telecom industry.,0,Other
+A misconfigured S3 bucket in Bengaluru revealed sensitive documents.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A DDoS attack disrupted online services of a major IT portal in CERT-In.,1,DDoS
+A misconfigured S3 bucket in UPI revealed sensitive documents.,1,Data Leak
+A misconfigured S3 bucket in Bengaluru revealed sensitive documents.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+Credentials were dumped online after a breach in Delhi.,1,Data Leak
+Credentials were dumped online after a breach in Pune.,1,Data Leak
+Regular software update improved system performance across the organization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Scheduled maintenance was completed with no security incident reported.,0,Other
+A misconfigured S3 bucket in India revealed sensitive documents.,1,Data Leak
+Regular software update improved system performance across the organization.,0,Other
+Privilege escalation via zero-day was observed in Hyderabad corporate endpoints.,1,Exploit
+A misconfigured S3 bucket in Hyderabad revealed sensitive documents.,1,Data Leak
+Attackers exploited a CVE affecting internet-facing systems in NCIIPC for RCE.,1,Exploit
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UIDAI.,0,Other
+Privilege escalation via zero-day was observed in NCIIPC corporate endpoints.,1,Exploit
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in RBI.,0,Other
+Privilege escalation via zero-day was observed in Mumbai corporate endpoints.,1,Exploit
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Aadhaar.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Hyderabad for RCE.,1,Exploit
+Credential-harvesting emails impersonated a bank in India to steal login details.,1,Phishing
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in Aadhaar.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Delhi for RCE.,1,Exploit
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in gov.in.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in RBI.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+"Hospital systems in UIDAI were locked by ransomware, disrupting operations.",1,Ransomware
+"A worm propagated across internal networks in Delhi, impacting operations.",1,Malware
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Indian.,0,Other
+A trojanized installer spread via email attachments in Aadhaar.,1,Malware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in gov.in.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+A misconfigured S3 bucket in UIDAI revealed sensitive documents.,1,Data Leak
+A data leak exposed customer records of a Education provider in CERT-In.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NCIIPC.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+A data leak exposed customer records of a Transport provider in Hyderabad.,1,Data Leak
+A phishing campaign targeting BFSI users in NIC asked for OTP and credentials.,1,Phishing
+Regular software update improved system performance across the organization. This update was relevant for teams in Indian.,0,Other
+"Malware infected endpoints in a IT firm in CERT-In, dropping an infostealer.",1,Malware
+Unpatched servers in Bengaluru were exploited with public PoCs.,1,Exploit
+Internal audit completed with recommendations for process optimization.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+"A ransomware incident impacted Govt in Pune, encrypting servers and demanding payment.",1,Ransomware
+"Hospital systems in CERT-In were locked by ransomware, disrupting operations.",1,Ransomware
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in UIDAI.,0,Other
+A phishing campaign targeting Power users in Bengaluru asked for OTP and credentials.,1,Phishing
+Internal audit completed with recommendations for process optimization.,0,Other
+"Hospital systems in NCIIPC were locked by ransomware, disrupting operations.",1,Ransomware
+A trojanized installer spread via email attachments in NCIIPC.,1,Malware
+Payment APIs in CERT-In suffered volumetric denial-of-service incidents.,1,DDoS
+"A worm propagated across internal networks in Aadhaar, impacting operations.",1,Malware
+"A worm propagated across internal networks in CERT-In, impacting operations.",1,Malware
+Attackers exploited a CVE affecting internet-facing systems in UIDAI for RCE.,1,Exploit
+Regular software update improved system performance across the organization. This update was relevant for teams in NIC.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in UPI.,0,Other
+A misconfigured S3 bucket in CERT-In revealed sensitive documents.,1,Data Leak
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Delhi for RCE.,1,Exploit
+Smishing messages in NIC lured telecom subscribers to fake KYC pages.,1,Phishing
+Credential-harvesting emails impersonated a bank in RBI to steal login details.,1,Phishing
+Regular software update improved system performance across the organization.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+Privilege escalation via zero-day was observed in India corporate endpoints.,1,Exploit
+"Malware infected endpoints in a Education firm in Aadhaar, dropping an infostealer.",1,Malware
+"Hospital systems in Aadhaar were locked by ransomware, disrupting operations.",1,Ransomware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UIDAI.,0,Other
+"Double-extortion ransomware hit a data center in Chennai, exfiltrating files from Education.",1,Ransomware
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in CERT-In.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Scheduled maintenance was completed with no security incident reported. This update was relevant for teams in Indian.,0,Other
+Payment APIs in Chennai suffered volumetric denial-of-service incidents.,1,DDoS
+A data leak exposed customer records of a Healthcare provider in RBI.,1,Data Leak
+Payment APIs in Chennai suffered volumetric denial-of-service incidents.,1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Aadhaar.,0,Other
+A trojanized installer spread via email attachments in Pune.,1,Malware
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in India.,0,Other
+"Traffic floods targeted an ISP backbone in Indian, causing intermittent outages.",1,DDoS
+The company released financial results and announced a new product roadmap.,0,Other
+"Double-extortion ransomware hit a data center in CERT-In, exfiltrating files from Education.",1,Ransomware
+"Hospital systems in Mumbai were locked by ransomware, disrupting operations.",1,Ransomware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in gov.in.,0,Other
+A trojanized installer spread via email attachments in Delhi.,1,Malware
+Credentials were dumped online after a breach in UPI.,1,Data Leak
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Privilege escalation via zero-day was observed in Indian corporate endpoints.,1,Exploit
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+Regular software update improved system performance across the organization.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+"Hospital systems in Pune were locked by ransomware, disrupting operations.",1,Ransomware
+Credential-harvesting emails impersonated a bank in CERT-In to steal login details.,1,Phishing
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
+Unpatched servers in Bengaluru were exploited with public PoCs.,1,Exploit
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UIDAI.,0,Other
+A phishing campaign targeting Healthcare users in Hyderabad asked for OTP and credentials.,1,Phishing
+Scheduled maintenance was completed with no security incident reported.,0,Other
+Attackers exploited a CVE affecting internet-facing systems in Pune for RCE.,1,Exploit
+The company released financial results and announced a new product roadmap. This update was relevant for teams in RBI.,0,Other
+A DDoS attack disrupted online services of a major Healthcare portal in CERT-In.,1,DDoS
+A phishing campaign targeting Healthcare users in Bengaluru asked for OTP and credentials.,1,Phishing
+Payment APIs in Pune suffered volumetric denial-of-service incidents.,1,DDoS
+Credentials were dumped online after a breach in India.,1,Data Leak
+A trojanized installer spread via email attachments in Pune.,1,Malware
+"Hospital systems in UPI were locked by ransomware, disrupting operations.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+Credential-harvesting emails impersonated a bank in NIC to steal login details.,1,Phishing
+A misconfigured S3 bucket in NCIIPC revealed sensitive documents.,1,Data Leak
+The company released financial results and announced a new product roadmap. This update was relevant for teams in UPI.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Privilege escalation via zero-day was observed in UIDAI corporate endpoints.,1,Exploit
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in gov.in.,0,Other
+A misconfigured S3 bucket in UIDAI revealed sensitive documents.,1,Data Leak
+A vendor onboarding communication was shared with employees. This update was relevant for teams in UIDAI.,0,Other
+"A ransomware incident impacted Power in Delhi, encrypting servers and demanding payment.",1,Ransomware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in gov.in.,0,Other
+A misconfigured S3 bucket in NCIIPC revealed sensitive documents.,1,Data Leak
+Attackers exploited a CVE affecting internet-facing systems in Mumbai for RCE.,1,Exploit
+Press release announced new partnerships in the telecom industry.,0,Other
+A trojanized installer spread via email attachments in India.,1,Malware
+The company released financial results and announced a new product roadmap. This update was relevant for teams in Indian.,0,Other
+Press release announced new partnerships in the telecom industry. This update was relevant for teams in Aadhaar.,0,Other
+Payment APIs in Chennai suffered volumetric denial-of-service incidents.,1,DDoS
+Credential-harvesting emails impersonated a bank in gov.in to steal login details.,1,Phishing
+"Malware infected endpoints in a Transport firm in UPI, dropping an infostealer.",1,Malware
+Regular software update improved system performance across the organization. This update was relevant for teams in CERT-In.,0,Other
+"Traffic floods targeted an ISP backbone in UPI, causing intermittent outages.",1,DDoS
+The company released financial results and announced a new product roadmap. This update was relevant for teams in NCIIPC.,0,Other
+The company released financial results and announced a new product roadmap. This update was relevant for teams in CERT-In.,0,Other
+"A worm propagated across internal networks in India, impacting operations.",1,Malware
+Regular software update improved system performance across the organization.,0,Other
+"Traffic floods targeted an ISP backbone in NCIIPC, causing intermittent outages.",1,DDoS
+Regular software update improved system performance across the organization. This update was relevant for teams in CERT-In.,0,Other
+"Double-extortion ransomware hit a data center in Indian, exfiltrating files from Power.",1,Ransomware
+Regular software update improved system performance across the organization.,0,Other
+Internal audit completed with recommendations for process optimization.,0,Other
+Credential-harvesting emails impersonated a bank in India to steal login details.,1,Phishing
+Payment APIs in Hyderabad suffered volumetric denial-of-service incidents.,1,DDoS
+Press release announced new partnerships in the telecom industry.,0,Other
+"A worm propagated across internal networks in Aadhaar, impacting operations.",1,Malware
+"Double-extortion ransomware hit a data center in NIC, exfiltrating files from Education.",1,Ransomware
+A vendor onboarding communication was shared with employees.,0,Other
+The company released financial results and announced a new product roadmap.,0,Other
+A vendor onboarding communication was shared with employees.,0,Other
+Press release announced new partnerships in the telecom industry.,0,Other
+Internal audit completed with recommendations for process optimization. This update was relevant for teams in UIDAI.,0,Other
+A vendor onboarding communication was shared with employees. This update was relevant for teams in CERT-In.,0,Other
